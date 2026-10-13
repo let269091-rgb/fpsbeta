@@ -1,7 +1,4 @@
 
--- DX TAME BETA | RGB FPS HUD
--- LocalScript > StarterPlayerScripts
-
 local Players = game:GetService("Players")
 local RunService = game:GetService("RunService")
 
